@@ -9,9 +9,9 @@ lives = 6
 
 # TODO-3: - Import the logo from hangman_art.py and print it at the start of the game.
 import hangman_art
-
 stages=hangman_art.stages
-print(stages)
+logo=hangman_art.logo
+print(logo)
 chosen_word = random.choice(word_list)
 print(chosen_word)
 
