@@ -1,5 +1,0 @@
-print("Welcome to my band anme generator")
-name_of_city=input("Name the city where you grew up:\n")
-name_of_pet=input("Enter the name of your pet:\n")
-print("your band name is:")
-print(name_of_city+" ",name_of_pet)
