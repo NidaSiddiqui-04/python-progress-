@@ -1,0 +1,70 @@
+French,English
+histoire,history
+chercher,search
+police,police
+pensais,thought
+aide,help
+demande,request
+mois,month
+frère,brother
+ville,city
+chaque,each
+parlé,speak
+arrivé,come
+bébé,baby
+longtemps,long time
+heures,hours
+aucune,any
+place,square
+parle,speak
+savais,knew
+étaient,were
+attention,Warning
+pourrais,could
+donner,give
+donné,given
+train,train
+corps,body
+endroit,place
+yeux,eyes
+écoute,listen
+trouve,find
+premier,first
+perdu,lost
+main,hand
+première,first
+côté,side
+pouvoir,power
+vieux,old
+tiens,here
+tellement,so much
+enfant,child
+venu,came
+suite,after
+pardon,sorry
+venez,come
+vers,towards
+minutes,minutes
+demandé,request
+chambre,bedroom
+belle,beautiful
+droit,law
+aimerais,would like to
+aujourd'hui,today
+mari,husband
+cause,cause
+enfin,finally
+attendez,Wait
+parti,left
+boulot,job
+arrêter,Stop
+dirait,would say
+terre,Earth
+donne,given
+fin,end
+croire,believe
+gros,large
+plutôt,rather
+aura,will have
+jouer,to play
+bureau,office
