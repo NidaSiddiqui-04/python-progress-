@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+img{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 60px;
+    height: 300px;
+    width: 600px;
+    border: 5px solid white;
+}
+h1{
+    color:white;
+    text-align: center;
+
+
+  font-family: "Playwrite AU QLD", cursive;
+  font-optical-sizing: auto;
+
+  font-style: bold;
+
+  
+  
+  
+}
+p{
+    color: white;
+    text-align: center;
+}
